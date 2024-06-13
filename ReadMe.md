@@ -1,4 +1,8 @@
-# 👋 Welcome to my GitHub!
+![Portfolio](https://github.com/AurelienChetot/AurelienChetot/assets/161326616/b614f424-b67a-44b0-88f2-1bf1f33f273d(https://portfolio-aurelienchetot.netlify.app/projet))
+
+
+
+**[![Button Component](https://readme-components.vercel.app/api?component=button&text=Linkedin)](https://www.linkedin.com/in/aur%C3%A9lien-chetot-6861852b2/)**
 
 # 📜 A propos de moi : 
 
