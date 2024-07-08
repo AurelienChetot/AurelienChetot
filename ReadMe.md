@@ -31,7 +31,7 @@ Je suis particulièrement intéressé par la collaboration sur des projets diver
    <h2> Mes Contributions </h2>
  </div>
   
-![snake gif](https://github.com/AurelienChetot/AurelienChetot/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AurelienChetot/AurelienChetot/blob/output/github-contribution-grid-snake.gif)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AurelienChetot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
