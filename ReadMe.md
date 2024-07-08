@@ -28,12 +28,12 @@ Je suis particulièrement intéressé par la collaboration sur des projets diver
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
  <div align="center">
-   <h2> Mes Contributions </h2>
+   <h2> Mes Contributions :</h2>
  </div>
   
 ![snake svg](https://github.com/AurelienChetot/AurelienChetot/blob/output/github-contribution-grid-snake-dark.svg)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=AurelienChetot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AurelienChetot&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AurelienChetot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
